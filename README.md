@@ -4,6 +4,9 @@ Um sistema de gerenciamento desenvolvido em **Python** para otimizar o controle 
 
 Este projeto foi desenvolvido como requisito para a disciplina de **Estruturas de Dados 1** (3º semestre de Ciência da Computação) e foca na aplicação prática de estruturas de dados lineares e algoritmos de ordenação e busca para garantir alta performance.
 
+# Colaboradores do Projeto
+
+Isaque Rodrigues Valim | Ryan Catão de Paula | Yago Heideky Tadaguma
 ---
 
 ## 🚀 O Problema Resolvido
