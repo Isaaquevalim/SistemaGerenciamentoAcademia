@@ -1,4 +1,5 @@
 ''' 
+src/core/fila.py
 Responsabilidade -> estrutura FIFO (primeiro que entra, primeiro que sai)
 Aplicacao -> fila de atendimento e fila da espera por aula
 '''

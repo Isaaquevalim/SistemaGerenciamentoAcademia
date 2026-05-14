@@ -1,4 +1,5 @@
 '''
+src/core/ordenacao.py
 Responsabilidade: algoritmos de ordenacao implementados manualmente
 os dois algoritmos ordenam a lista de alunos por nome (ordem alfabetica)
 '''

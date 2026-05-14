@@ -1,4 +1,5 @@
 '''
+src/core/lista.py
 Responsabilidade: estrutura de dados lista, armazena e manipula alunos
 '''
 

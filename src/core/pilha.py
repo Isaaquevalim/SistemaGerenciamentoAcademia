@@ -1,4 +1,5 @@
 '''
+src/core/pilha.py
 Responsabilidade: estrutura LIFO -> ultima acao realizada e a primeira a ser desfeita
 Usada para historico de acoes com funcao desfazer
 '''
