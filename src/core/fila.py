@@ -16,7 +16,7 @@ class Fila:
 
     #desenfileirar O(n) -> remove o primeiro elemento e os demais andam uma posicao            
     def dequeue(self) -> dict | None: #dict > se houver alguem na fila | None > se nao houver alguem na fila
-        if self.esta_vazia():    # verifica antes de remover se esta vazia
+        if self.esta_vazia():    # verifica antes de remover se esta vazi
             return None          #fila vazia: ninguem a ser atendido (evita erro)
         return self.dados_pop(0) #remove o elenento da posicao 0 e retorna o primeiro da fila
 
