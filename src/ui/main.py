@@ -1,0 +1,1 @@
+# Janela principal + dashboard
