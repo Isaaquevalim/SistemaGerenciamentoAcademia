@@ -90,7 +90,6 @@ class AlunoRepo:
     buscar planos -> retorna a lista de todos os planos disponiveis
     usada para exibir as opcoes de plano no cadastro/edicao de aluno
     '''
-
     def buscar_planos(self) -> list:
         conn = get_conexao()
         cursor = conn.cursor()
